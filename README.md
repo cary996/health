@@ -15,5 +15,6 @@
 * 13.[铁](https://github.com/cary996/health/blob/master/day13/index.md)
 * 14.[茶黄素](https://github.com/cary996/health/blob/master/day14/index.md)
 * 15.[银杏肉苁蓉、松果菊](https://github.com/cary996/health/blob/master/day15/index.md)
-* 16.[卵磷脂](https://github.com/cary996/health/blob/master/day16/index.md)
-* 17.[益生菌](https://github.com/cary996/health/blob/master/day17/index.md)
+* 16.[GABA和酸枣仁](https://github.com/cary996/health/blob/master/day18/index.md)
+* 17.[卵磷脂](https://github.com/cary996/health/blob/master/day16/index.md)
+* 18.[益生菌](https://github.com/cary996/health/blob/master/day17/index.md)
