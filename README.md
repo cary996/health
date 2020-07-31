@@ -19,3 +19,4 @@
 * 17.[卵磷脂](https://github.com/cary996/health/blob/master/day16/index.md)
 * 18.[益生菌](https://github.com/cary996/health/blob/master/day17/index.md)
 * 19.[绿茶提取物EGCG/纤体塑形营养素](https://github.com/cary996/health/blob/master/day19/index.md)
+* 20.[挡糖营养素](https://github.com/cary996/health/blob/master/day20/index.md)
