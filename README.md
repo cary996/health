@@ -12,7 +12,7 @@
 * 10.[推动人体新陈代谢的维生素](https://github.com/cary996/health/blob/master/day10/index.md)
 * 11.[益生菌的重要作用](https://github.com/cary996/health/blob/master/day17/index.md)
 * 12.[钙你补对了吗？（上）](https://github.com/cary996/health/blob/master/day11/index.md)
-* 13.[钙（下）](https://github.com/cary996/health/blob/master/day12/index.md)
+* 13.[钙你补对了吗？（下）](https://github.com/cary996/health/blob/master/day12/index.md)
 * 14.[铁](https://github.com/cary996/health/blob/master/day13/index.md)
 * 15.[茶黄素](https://github.com/cary996/health/blob/master/day14/index.md)
 * 16.[银杏肉苁蓉、松果菊](https://github.com/cary996/health/blob/master/day15/index.md)
