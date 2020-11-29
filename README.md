@@ -15,7 +15,7 @@
 * 13.[钙你补对了吗？（下）](https://github.com/cary996/health/blob/master/day12/index.md)
 * 14.[缺铁常见综合症](https://github.com/cary996/health/blob/master/day13/index.md)
 * 15.[跟高胆固醇说BYE BYE](https://github.com/cary996/health/blob/master/day14/index.md)
-* 16.[银杏肉苁蓉、松果菊](https://github.com/cary996/health/blob/master/day15/index.md)
+* 16.[补肾健脑与快速提升免疫力](https://github.com/cary996/health/blob/master/day15/index.md)
 * 17.[GABA和酸枣仁](https://github.com/cary996/health/blob/master/day18/index.md)
 * 18.[卵磷脂](https://github.com/cary996/health/blob/master/day16/index.md)
 * 19.[绿茶提取物EGCG/纤体塑形营养素](https://github.com/cary996/health/blob/master/day19/index.md)
