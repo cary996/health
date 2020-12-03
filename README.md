@@ -18,7 +18,7 @@
 * 16.[补肾健脑与快速提升免疫力](https://github.com/cary996/health/blob/master/day15/index.md)
 * 17.[舒压、舒心、舒眠](https://github.com/cary996/health/blob/master/day18/index.md)
 * 18.[中青年也要当“心”](https://github.com/cary996/health/blob/master/day16/index.md)
-* 19.[绿茶提取物EGCG/纤体塑形营养素](https://github.com/cary996/health/blob/master/day19/index.md)
+* 19.[轻松三步，健康塑形](https://github.com/cary996/health/blob/master/day19/index.md)
 * 20.[挡糖营养素](https://github.com/cary996/health/blob/master/day20/index.md)
 * 21.[护肝相关知识](https://github.com/cary996/health/blob/master/day21/index.md)
 * 22.[儿童营养知识](https://github.com/cary996/health/blob/master/day22/index.md)
